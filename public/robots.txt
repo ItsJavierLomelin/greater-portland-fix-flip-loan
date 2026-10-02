@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://portlandmainefixandflip.loansapp.cfd/sitemap.xml
